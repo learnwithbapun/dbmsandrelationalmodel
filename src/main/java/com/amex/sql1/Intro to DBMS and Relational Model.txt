@@ -3,3 +3,24 @@ SQL 1 Intro to DBMS and Relational Model:
 https://www.w3schools.com/sql/sql_intro.asp
 
 https://www.linkedin.com/in/singhalok641/
+
+Lecture | SQL 2: Schema Design :
+
+Download links :
+
+https://dev.mysql.com/downloads/workbench/
+
+https://dev.mysql.com/downloads/mysql/
+
+Installation :  
+
+PORT :  3306
+
+X protocol port :  33060
+
+
+
+
+
+
+
