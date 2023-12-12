@@ -18,6 +18,17 @@ PORT :  3306
 
 X protocol port :  33060
 
+pipe name  : MYSQL
+
+username :  root
+password : admin
+
+
+
+Fang Path Template for resume :
+
+https://www.overleaf.com/latex/templates/faangpath-simple-template/npsfpdqnxmbc
+
 
 
 

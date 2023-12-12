@@ -1,0 +1,40 @@
+Sql mock interview 
+
+Schema design : 
+
+Market place on cloud : 
+Buyer , seller , products , invoice 
+
+Complete schema design , asked me to make modifications to schema 
+
+Queries 1) easy 
+2) hard 
+
+Theory questions 
+1) acid? 
+2) what is indexing
+
+
+5 mins of intro 
+25 min for writing queries
+25 min for schema design
+5 min for feedback
+
+4 queries 2 was from join 2 was from sub queries 
+
+Long discussion on TRANSACTIONS
+AND ACID
+
+SCHEMA DESIGN ALONG WITH CARDINALITY DISCUSSION AND NORMALIZATION.
+
+Schema design(healthcare system)
+
+Same pattern as for previous attendees:
+
+3 SQL queries (basic join - 1, aggregate- 1, subquery - 1)
+Transaction
+ACID
+Indexes
+Schema Design of Multi Layered University system
+
+https://www.interviewbit.com/sql-interview-questions/
