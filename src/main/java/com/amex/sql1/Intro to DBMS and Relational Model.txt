@@ -36,6 +36,12 @@ https://github.com/anshumansingh
 
 
 
+Lecture | SQL 3: SQL Data Types and DB Normalization :
+
+
+
+
+
 
 
 
