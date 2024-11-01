@@ -28,33 +28,30 @@ Terminology :
 Keys :
 any collections of attribute that can uniquely identified a tuple inside  relation 
 
--Super key
+-Super key : 
 -Candidate Key (Can't have unnecessery attribute , All the attribute combined help in uniquely identifying a tuple)
--Composite Key
- 
+-Composite Key -- any key made of more than one column
+
+* All candiate key are super key but not vice versa .
+
 -Primary Key 
 -Foreign Key 
 -Unique Key
 
-SQL Query :
+Class 2 Schema Design : 
 
--- Create a database
-CREATE DATABASE IF NOT EXISTS sql_lectures;
-USE sql_lectures;
+https://docs.google.com/document/d/12L50ctQ4JnseFhV2p1ZGztgNh7TAo85eKO4PRZ_NXDA/edit?usp=sharing
 
-CREATE TABLE Students (
-	id INT,
-    first_name VARCHAR(10),
-    last_name VARCHAR(10)
-);
-
-
--- Delete a table
-DROP TABLE IF EXISTS Students;
-
--- Delete a database
-DROP DATABASE IF EXISTS sql_lectures;
+Business Requirements :
+There are students
+Each student has name, email and phone number
+Each student is assigned to a batch.
+Every batch has a name, start date and end date
+Students can shift batches
+Each student has a mentor
+Mentor has name, dob and experience
+Batches have lectures. Each lecture has a topic and is taken by an instructor
+Instructor has name, dob and experience
+Multiple batches can learn together in the same lecture.
 
 
-
-Class 2 :
