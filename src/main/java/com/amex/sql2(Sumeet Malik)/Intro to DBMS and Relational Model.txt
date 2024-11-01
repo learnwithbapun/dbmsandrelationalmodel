@@ -9,7 +9,7 @@ https://dev.mysql.com/downloads/mysql/
 MYSQL workbench
 https://dev.mysql.com/downloads/workbench/
 
-DBMS :
+DBMS(Types) :
 
 -RDBMS(MySQL, PostgreSQL, Oracle.)
 -NoSQl DBMS(MongoDB(JSON , Document Oriented-- Data is stored in BSON (binary JSON)), 
@@ -17,6 +17,23 @@ DBMS :
 -Hierchical DBMS (IMS)
 -Network DBMS (IDS)
 
+
+Terminology :
+-Relation :Entity : (Class in java ) Table in DB
+-Attribute : Column name or properties name in class
+-Tuple:  Row or Record
+-Degree:Count of Columns 
+-Cardinality :Count of Rows
+
+Keys :
+any collections of attribute that can uniquely identified a tuple inside  relation 
+
+-Super key
+-Candidate Key (Can't have unnecessery attribute , All the attribute combined help in uniquely identifying a tuple)
+-Composite Key 
+-Primary Key 
+-Foreign Key 
+-Unique Key
 
 SQL Query :
 
