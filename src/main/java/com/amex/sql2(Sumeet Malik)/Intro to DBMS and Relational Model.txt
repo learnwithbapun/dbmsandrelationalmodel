@@ -1,0 +1,42 @@
+SQL 1 Intro to DBMS and Relational Model:
+
+Youtube Channel : PepCoding
+
+Class 1: (Intro to DBMS)
+
+Links to download for using MYSQL:
+https://dev.mysql.com/downloads/mysql/
+MYSQL workbench
+https://dev.mysql.com/downloads/workbench/
+
+DBMS :
+
+-RDBMS(MySQL, PostgreSQL, Oracle.)
+-NoSQl DBMS(MongoDB(JSON , Document Oriented-- Data is stored in BSON (binary JSON)), 
+  Cassandra(focus on columns of data), Redis(like hashmap key value pair))
+-Hierchical DBMS (IMS)
+-Network DBMS (IDS)
+
+
+SQL Query :
+
+-- Create a database
+CREATE DATABASE IF NOT EXISTS sql_lectures;
+USE sql_lectures;
+
+CREATE TABLE Students (
+	id INT,
+    first_name VARCHAR(10),
+    last_name VARCHAR(10)
+);
+
+
+-- Delete a table
+DROP TABLE IF EXISTS Students;
+
+-- Delete a database
+DROP DATABASE IF EXISTS sql_lectures;
+
+
+
+Class 2 :
