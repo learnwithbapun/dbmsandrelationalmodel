@@ -30,7 +30,8 @@ any collections of attribute that can uniquely identified a tuple inside  relati
 
 -Super key
 -Candidate Key (Can't have unnecessery attribute , All the attribute combined help in uniquely identifying a tuple)
--Composite Key 
+-Composite Key
+ 
 -Primary Key 
 -Foreign Key 
 -Unique Key
