@@ -54,4 +54,30 @@ Batches have lectures. Each lecture has a topic and is taken by an instructor
 Instructor has name, dob and experience
 Multiple batches can learn together in the same lecture.
 
+Class 3:
+
+Primary Key :
+Foreign Key :
+
+Unique Key :
+Multiple Unique keys are allowed in same table.(nut Multiple null are allowed)
+Allow  null value 
+doesnot allow duplicates.
+It can be composite key.
+
+Primary Key :
+
+1.Only 1 PK per table 
+2.Null is not allowed 
+3.Unique Value 
+4.It can be composite
+
+
+Difference between Primary Key and Unique Key :
+
+
+Properties of FK :
+
+
+
 
