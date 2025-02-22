@@ -26,11 +26,11 @@ Terminology :
 --Cardinality :Count of Rows
 
 Keys :
-any collections of attribute that can uniquely identified a tuple inside  relation 
+--any collections of attribute that can uniquely identified a tuple inside  relation
 
--Super key : 
--Candidate Key (Can't have unnecessery attribute , All the attribute combined help in uniquely identifying a tuple)
--Composite Key -- any key made of more than one column
+--Super key :
+--Candidate Key (Can't have unnecessery attribute , All the attribute combined help in uniquely identifying a tuple)
+--Composite Key -- any key made of more than one column
 
 * All candiate key are super key but not vice versa .
 
