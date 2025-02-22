@@ -19,11 +19,11 @@ DBMS(Types) :
 
 
 Terminology :
--Relation :Entity : (Class in java ) Table in DB
--Attribute : Column name or properties name in class
--Tuple:  Row or Record
--Degree:Count of Columns 
--Cardinality :Count of Rows
+--Relation :Entity : (Class in java ) Table in DB
+--Attribute : Column name or properties name in class
+--Tuple:  Row or Record
+--Degree:Count of Columns
+--Cardinality :Count of Rows
 
 Keys :
 any collections of attribute that can uniquely identified a tuple inside  relation 
